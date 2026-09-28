@@ -1,3 +1,5 @@
+> **This repository has moved.** It now lives in the folder [`consistent-face-thumbnails`](https://github.com/florianrolke/community-resources/tree/main/consistent-face-thumbnails) of [florianrolke/community-resources](https://github.com/florianrolke/community-resources), together with all of Florian Rolke's community resources. This copy is archived (read-only) and stays online so existing links keep working. New fixes and updates happen in community-resources.
+
 # Consistent-Face Thumbnails
 
 Make YouTube / LinkedIn thumbnails that show **the same face every time** (real character consistency) **plus premium 3D "infographic" cards** - all from **one photo of yourself** and, if you want, a reference of **your own brand colors and style**.
